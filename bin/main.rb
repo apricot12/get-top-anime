@@ -24,7 +24,7 @@ welcome
 scraper = AnimeList.new
 scraper.scraper
 puts ''
-puts 'Converting list into readable format...'
+puts 'Fetching & Converting list into readable format...'
 puts ''
 puts 'DONE!'
 
