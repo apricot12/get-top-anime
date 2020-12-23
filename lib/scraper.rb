@@ -6,7 +6,8 @@ class AnimeList
   def scraper
     @animes = []
     page = 0
-    last_page = 950
+    user_input
+    last_page = @page
     while page <= last_page
       pagin_url = "https://myanimelist.net/topanime.php?limit=#{page}"
       pagin_unpar_pg = HTTParty.get(pagin_url)
@@ -15,7 +16,15 @@ class AnimeList
       pagination_anime_list
       page += 50
     end
+    format_json
   end
+
+  def valid_input(input)
+    (input.to_i >= 50) && (input.to_i % 50 == 0) && (input =~ /^-?[0-9]+$/) && (input != ~ /\s/) && (!input.nil?)
+  end
+
+
+private
 
   def export_to_json
     File.open('./json/anime_list.json', 'w') do |f|
