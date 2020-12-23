@@ -1,10 +1,7 @@
-# frozen_string_literal: true
-
 require 'nokogiri'
 require 'httparty'
 require 'json'
 
-#:nodoc:
 class AnimeList
   def scraper
     @animes = []
