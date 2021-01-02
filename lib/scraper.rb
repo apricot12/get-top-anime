@@ -25,7 +25,6 @@ class AnimeList
 
   
 private
-
   def export_to_json
     File.open('../json/anime_list.json', 'w') do |f|
       f.write(@animes.to_json)
