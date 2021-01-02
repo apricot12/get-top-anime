@@ -4,9 +4,10 @@
 
 > You never have to search for a top anime listicle again!.
 
+> This is a web scraper built using ruby and some scraping gems to generate a list of top anime from myanimelist.net
+
 ![screenshot](./screenshot.png)
 
-> This is a web scraper built using ruby and some scraping gems to generate a list of top anime from myanimelist.net
 
 ## Built With
 
