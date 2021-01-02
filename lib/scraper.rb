@@ -23,19 +23,19 @@ class AnimeList
     (input.to_i >= 50) && (input.to_i % 50 == 0) && (input =~ /^-?[0-9]+$/) && (input != ~ /\s/) && (!input.nil?)
   end
 
-
+  
 private
 
   def export_to_json
-    File.open('./json/anime_list.json', 'w') do |f|
+    File.open('../json/anime_list.json', 'w') do |f|
       f.write(@animes.to_json)
     end
   end
 
   def format_json
-    json = JSON.parse File.read './json/anime_list.json'
-    File.open('./json/anime_list.json', 'w') do |list|
-      list.write './json/anime_list.json', JSON.pretty_generate(json)
+    json = JSON.parse File.read '../json/anime_list.json'
+    File.open('../json/anime_list.json', 'w') do |list|
+      list.write '../json/anime_list.json', JSON.pretty_generate(json)
     end
   end
 
