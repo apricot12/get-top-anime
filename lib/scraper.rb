@@ -3,20 +3,25 @@ require 'httparty'
 require 'json'
 
 class AnimeList
+
   def scraper
     @animes = []
-    page = 0
+    @page_count = 0
     user_input
     last_page = @page
-    while page <= last_page
-      pagin_url = "https://myanimelist.net/topanime.php?limit=#{page}"
-      pagin_unpar_pg = HTTParty.get(pagin_url)
-      pagin_par_pg = Nokogiri::HTML(pagin_unpar_pg.body)
-      @pagin_anime_list = pagin_par_pg.css('tr.ranking-list')
+    while @page_count <= last_page
+      url
       pagination_anime_list
-      page += 50
+      @page_count += 50
     end
     format_json
+  end
+
+  def url
+    pagin_url = "https://myanimelist.net/topanime.php?limit=#{@page_count}"
+    pagin_unpar_pg = HTTParty.get(pagin_url)
+    pagin_par_pg = Nokogiri::HTML(pagin_unpar_pg.body)
+    @pagin_anime_list = pagin_par_pg.css('tr.ranking-list')
   end
 
   def valid_input(input)
