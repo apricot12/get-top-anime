@@ -27,6 +27,10 @@ To get a local copy up and running follow these simple example steps.
 
          $ git clone https://github.com/apricot12/get-top-anime
 
+     Install the gems required by running the following in terminal inside your project folder :
+
+         $ bundle install
+        
 ### Usage
     1) Navigate into the project folder and run main.rb by typing in : 
 
