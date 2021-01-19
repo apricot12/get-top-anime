@@ -1,0 +1,502 @@
+./json/anime_list.json[
+  {
+    "rank": "1",
+    "name": "Fullmetal Alchemist: Brotherhood",
+    "rating": "9.21"
+  },
+  {
+    "rank": "2",
+    "name": "Steins;Gate",
+    "rating": "9.12"
+  },
+  {
+    "rank": "3",
+    "name": "Gintama°",
+    "rating": "9.11"
+  },
+  {
+    "rank": "4",
+    "name": "Hunter x Hunter (2011)",
+    "rating": "9.11"
+  },
+  {
+    "rank": "5",
+    "name": "Shingeki no Kyojin Season 3 Part 2",
+    "rating": "9.09"
+  },
+  {
+    "rank": "6",
+    "name": "Ginga Eiyuu Densetsu",
+    "rating": "9.08"
+  },
+  {
+    "rank": "7",
+    "name": "Gintama'",
+    "rating": "9.08"
+  },
+  {
+    "rank": "8",
+    "name": "Shingeki no Kyojin: The Final Season",
+    "rating": "9.07"
+  },
+  {
+    "rank": "9",
+    "name": "Gintama': Enchousen",
+    "rating": "9.04"
+  },
+  {
+    "rank": "10",
+    "name": "3-gatsu no Lion 2nd Season",
+    "rating": "9.01"
+  },
+  {
+    "rank": "11",
+    "name": "Koe no Katachi",
+    "rating": "9.00"
+  },
+  {
+    "rank": "12",
+    "name": "Kimi no Na wa.",
+    "rating": "8.99"
+  },
+  {
+    "rank": "13",
+    "name": "Gintama.",
+    "rating": "8.98"
+  },
+  {
+    "rank": "14",
+    "name": "Gintama",
+    "rating": "8.97"
+  },
+  {
+    "rank": "15",
+    "name": "Clannad: After Story",
+    "rating": "8.96"
+  },
+  {
+    "rank": "16",
+    "name": "Gintama Movie 2: Kanketsu-hen - Yorozuya yo Eien Nare",
+    "rating": "8.96"
+  },
+  {
+    "rank": "17",
+    "name": "Owarimonogatari 2nd Season",
+    "rating": "8.94"
+  },
+  {
+    "rank": "18",
+    "name": "Code Geass: Hangyaku no Lelouch R2",
+    "rating": "8.91"
+  },
+  {
+    "rank": "19",
+    "name": "Haikyuu!!: Karasuno Koukou vs. Shiratorizawa Gakuen Koukou",
+    "rating": "8.89"
+  },
+  {
+    "rank": "20",
+    "name": "Gintama.: Shirogane no Tamashii-hen - Kouhan-sen",
+    "rating": "8.85"
+  },
+  {
+    "rank": "21",
+    "name": "Mob Psycho 100 II",
+    "rating": "8.85"
+  },
+  {
+    "rank": "22",
+    "name": "Fate/stay night Movie: Heaven's Feel - III. Spring Song",
+    "rating": "8.83"
+  },
+  {
+    "rank": "23",
+    "name": "Sen to Chihiro no Kamikakushi",
+    "rating": "8.83"
+  },
+  {
+    "rank": "24",
+    "name": "Kizumonogatari III: Reiketsu-hen",
+    "rating": "8.82"
+  },
+  {
+    "rank": "25",
+    "name": "Gintama.: Shirogane no Tamashii-hen",
+    "rating": "8.80"
+  },
+  {
+    "rank": "26",
+    "name": "Cowboy Bebop",
+    "rating": "8.79"
+  },
+  {
+    "rank": "27",
+    "name": "Shouwa Genroku Rakugo Shinjuu: Sukeroku Futatabi-hen",
+    "rating": "8.79"
+  },
+  {
+    "rank": "28",
+    "name": "Monogatari Series: Second Season",
+    "rating": "8.78"
+  },
+  {
+    "rank": "29",
+    "name": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen",
+    "rating": "8.77"
+  },
+  {
+    "rank": "30",
+    "name": "Made in Abyss Movie 3: Fukaki Tamashii no Reimei",
+    "rating": "8.77"
+  },
+  {
+    "rank": "31",
+    "name": "Mushishi Zoku Shou 2nd Season",
+    "rating": "8.77"
+  },
+  {
+    "rank": "32",
+    "name": "Haikyuu!! Second Season",
+    "rating": "8.76"
+  },
+  {
+    "rank": "33",
+    "name": "Made in Abyss",
+    "rating": "8.76"
+  },
+  {
+    "rank": "34",
+    "name": "Shigatsu wa Kimi no Uso",
+    "rating": "8.76"
+  },
+  {
+    "rank": "35",
+    "name": "Hajime no Ippo",
+    "rating": "8.75"
+  },
+  {
+    "rank": "36",
+    "name": "Monster",
+    "rating": "8.75"
+  },
+  {
+    "rank": "37",
+    "name": "Holo no Graffiti",
+    "rating": "8.74"
+  },
+  {
+    "rank": "38",
+    "name": "Mushishi Zoku Shou",
+    "rating": "8.73"
+  },
+  {
+    "rank": "39",
+    "name": "Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku-hen",
+    "rating": "8.73"
+  },
+  {
+    "rank": "40",
+    "name": "Vinland Saga",
+    "rating": "8.72"
+  },
+  {
+    "rank": "41",
+    "name": "Code Geass: Hangyaku no Lelouch",
+    "rating": "8.72"
+  },
+  {
+    "rank": "42",
+    "name": "Mononoke Hime",
+    "rating": "8.72"
+  },
+  {
+    "rank": "43",
+    "name": "Kimetsu no Yaiba Movie: Mugen Ressha-hen",
+    "rating": "8.71"
+  },
+  {
+    "rank": "44",
+    "name": "Great Teacher Onizuka",
+    "rating": "8.70"
+  },
+  {
+    "rank": "45",
+    "name": "Mushishi",
+    "rating": "8.70"
+  },
+  {
+    "rank": "46",
+    "name": "Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai",
+    "rating": "8.70"
+  },
+  {
+    "rank": "47",
+    "name": "Violet Evergarden Movie",
+    "rating": "8.69"
+  },
+  {
+    "rank": "48",
+    "name": "Natsume Yuujinchou Shi",
+    "rating": "8.67"
+  },
+  {
+    "rank": "49",
+    "name": "Tengen Toppa Gurren Lagann",
+    "rating": "8.67"
+  },
+  {
+    "rank": "50",
+    "name": "Ashita no Joe 2",
+    "rating": "8.67"
+  },
+  {
+    "rank": "51",
+    "name": "Hajime no Ippo: New Challenger",
+    "rating": "8.67"
+  },
+  {
+    "rank": "52",
+    "name": "Howl no Ugoku Shiro",
+    "rating": "8.67"
+  },
+  {
+    "rank": "53",
+    "name": "Suzumiya Haruhi no Shoushitsu",
+    "rating": "8.66"
+  },
+  {
+    "rank": "54",
+    "name": "Yakusoku no Neverland",
+    "rating": "8.66"
+  },
+  {
+    "rank": "55",
+    "name": "Natsume Yuujinchou Roku",
+    "rating": "8.65"
+  },
+  {
+    "rank": "56",
+    "name": "Ookami Kodomo no Ame to Yuki",
+    "rating": "8.65"
+  },
+  {
+    "rank": "57",
+    "name": "Kimetsu no Yaiba",
+    "rating": "8.65"
+  },
+  {
+    "rank": "58",
+    "name": "Death Note",
+    "rating": "8.63"
+  },
+  {
+    "rank": "59",
+    "name": "Mushishi Zoku Shou: Suzu no Shizuku",
+    "rating": "8.63"
+  },
+  {
+    "rank": "60",
+    "name": "Ping Pong the Animation",
+    "rating": "8.63"
+  },
+  {
+    "rank": "61",
+    "name": "Violet Evergarden",
+    "rating": "8.63"
+  },
+  {
+    "rank": "62",
+    "name": "JoJo no Kimyou na Bouken Part 5: Ougon no Kaze",
+    "rating": "8.62"
+  },
+  {
+    "rank": "63",
+    "name": "Kizumonogatari II: Nekketsu-hen",
+    "rating": "8.62"
+  },
+  {
+    "rank": "64",
+    "name": "Yojouhan Shinwa Taikei",
+    "rating": "8.61"
+  },
+  {
+    "rank": "65",
+    "name": "Natsume Yuujinchou San",
+    "rating": "8.60"
+  },
+  {
+    "rank": "66",
+    "name": "Shouwa Genroku Rakugo Shinjuu",
+    "rating": "8.60"
+  },
+  {
+    "rank": "67",
+    "name": "Fate/stay night Movie: Heaven's Feel - II. Lost Butterfly",
+    "rating": "8.60"
+  },
+  {
+    "rank": "68",
+    "name": "Fate/Zero 2nd Season",
+    "rating": "8.60"
+  },
+  {
+    "rank": "69",
+    "name": "Haikyuu!!: To the Top 2nd Season",
+    "rating": "8.60"
+  },
+  {
+    "rank": "70",
+    "name": "Hajime no Ippo: Rising",
+    "rating": "8.60"
+  },
+  {
+    "rank": "71",
+    "name": "Kimi no Suizou wo Tabetai",
+    "rating": "8.60"
+  },
+  {
+    "rank": "72",
+    "name": "Bakuman. 3rd Season",
+    "rating": "8.59"
+  },
+  {
+    "rank": "73",
+    "name": "Natsume Yuujinchou Go",
+    "rating": "8.59"
+  },
+  {
+    "rank": "74",
+    "name": "One Punch Man",
+    "rating": "8.59"
+  },
+  {
+    "rank": "75",
+    "name": "Sora yori mo Tooi Basho",
+    "rating": "8.58"
+  },
+  {
+    "rank": "76",
+    "name": "Mushishi: Hihamukage",
+    "rating": "8.58"
+  },
+  {
+    "rank": "77",
+    "name": "Kara no Kyoukai 5: Mujun Rasen",
+    "rating": "8.57"
+  },
+  {
+    "rank": "78",
+    "name": "Tengen Toppa Gurren Lagann Movie 2: Lagann-hen",
+    "rating": "8.57"
+  },
+  {
+    "rank": "79",
+    "name": "Zoku Natsume Yuujinchou",
+    "rating": "8.57"
+  },
+  {
+    "rank": "80",
+    "name": "Shingeki no Kyojin Season 3",
+    "rating": "8.56"
+  },
+  {
+    "rank": "81",
+    "name": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
+    "rating": "8.55"
+  },
+  {
+    "rank": "82",
+    "name": "Ansatsu Kyoushitsu 2nd Season",
+    "rating": "8.55"
+  },
+  {
+    "rank": "83",
+    "name": "Fruits Basket 2nd Season",
+    "rating": "8.55"
+  },
+  {
+    "rank": "84",
+    "name": "Haikyuu!!",
+    "rating": "8.55"
+  },
+  {
+    "rank": "85",
+    "name": "Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+    "rating": "8.55"
+  },
+  {
+    "rank": "86",
+    "name": "Aria the Origination",
+    "rating": "8.54"
+  },
+  {
+    "rank": "87",
+    "name": "Kono Subarashii Sekai ni Shukufuku wo!: Kurenai Densetsu",
+    "rating": "8.54"
+  },
+  {
+    "rank": "88",
+    "name": "Chihayafuru 3",
+    "rating": "8.53"
+  },
+  {
+    "rank": "89",
+    "name": "Gintama.: Porori-hen",
+    "rating": "8.53"
+  },
+  {
+    "rank": "90",
+    "name": "Slam Dunk",
+    "rating": "8.53"
+  },
+  {
+    "rank": "91",
+    "name": "Tian Guan Ci Fu",
+    "rating": "8.53"
+  },
+  {
+    "rank": "92",
+    "name": "Rainbow: Nisha Rokubou no Shichinin",
+    "rating": "8.52"
+  },
+  {
+    "rank": "93",
+    "name": "Steins;Gate 0",
+    "rating": "8.52"
+  },
+  {
+    "rank": "94",
+    "name": "Uchuu Kyoudai",
+    "rating": "8.52"
+  },
+  {
+    "rank": "95",
+    "name": "Gintama Movie 1: Shinyaku Benizakura-hen",
+    "rating": "8.52"
+  },
+  {
+    "rank": "96",
+    "name": "JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai",
+    "rating": "8.52"
+  },
+  {
+    "rank": "97",
+    "name": "Hotaru no Haka",
+    "rating": "8.51"
+  },
+  {
+    "rank": "98",
+    "name": "Mo Dao Zu Shi",
+    "rating": "8.51"
+  },
+  {
+    "rank": "99",
+    "name": "Neon Genesis Evangelion: The End of Evangelion",
+    "rating": "8.51"
+  },
+  {
+    "rank": "100",
+    "name": "One Piece",
+    "rating": "8.50"
+  }
+]
